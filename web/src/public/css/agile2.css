@@ -1,3 +1,4 @@
+
 button{
   margin:0px;
 }
@@ -64,11 +65,3 @@ h3{
   border-radius:6px;
 }
 
-a{
-  font-style:san-serif;
-  font-family: verdana;
-  color:#fcfcfc;
-  font-size:1rem;
-  padding:1rem 1.3rem;
-  
-}
